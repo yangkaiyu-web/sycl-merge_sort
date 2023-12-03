@@ -40,7 +40,7 @@ sycl源代码在src目录下，其中`src/parallel_merge_sort.cpp`源文件为�
 
 在sycl编程环境下，使用GPU进行加速并优化后，比仅使用CPU快**226**倍。
 
-### [代码分析]()
+### [代码分析](https://github.com/yangkaiyu-web/sycl-merge_sort/blob/main/src/%E4%BB%A3%E7%A0%81%E8%A7%A3%E6%9E%90.md)
 
 见src目录下。
 
